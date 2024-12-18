@@ -1,5 +1,3 @@
-# encoding: utf-8
-
 require 'sprockets/exporters/webp_exporter'
 
 module Sprockets
